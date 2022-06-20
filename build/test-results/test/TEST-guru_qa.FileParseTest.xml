@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guru_qa.FileParseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-19T16:44:28" hostname="Anastasias-MacBook-Pro.local" time="1.062">
+  <properties/>
+  <testcase name="CSV file in Zip test" classname="guru_qa.FileParseTest" time="0.089"/>
+  <testcase name="PDF file in Zip test" classname="guru_qa.FileParseTest" time="0.772"/>
+  <testcase name="XLS file in Zip test" classname="guru_qa.FileParseTest" time="0.2"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
